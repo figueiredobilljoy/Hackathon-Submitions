@@ -102,9 +102,13 @@ http://localhost:5173
 
 To be added.
 
+## Presentation
+
+https://docs.google.com/presentation/d/1Tv_p4ui2m3lsFelvbDaqeOa71nDQ9LSqSpW_cs7Q7V4/edit?usp=sharing
+
 ## Demo Video
 
-To be added.
+https://drive.google.com/file/d/1hs0W3XrZTsM0-BgO6NvkezLBwHGzSaLZ/view?usp=sharing
 
 ## Future Scope
 
